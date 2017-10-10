@@ -1,0 +1,27 @@
+Bài 1: Giới thiệu về Machine Learning
+
+Machine Learning là một tập con của AI (AI - Artificial Intelligence).
+Machine Learning là một lĩnh vực nhỏ của Khoa Học Máy Tính, nó có khả năng tự học hỏi dựa trên dữ liệu đưa vào mà không cần phải được lập trình cụ thể.
+Deep Learning đã giúp máy tính thực thi những việc tưởng chừng như không thể vào 10 năm trước: Phân loại cả ngàn vật thể khác nhau trong một bức ảnh, tự tạo chú thích cho ảnh, bắt trước giọng nói và chữ viết của con người, giao tiếp với con người, hay thậm chí cả sáng tác văn hay âm nhạc.
+
+AI là một ngành khoa học được sinh ra với mục đích làm cho máy tính có được trí thông minh.
+Mục tiêu này vẫn khá mơ hồ vì không phải ai cũng đồng ý với một định nghĩa thống nhất về trí thông minh.
+Thế nên các nhà khoa học phải định nghĩa một số mục tiêu cụ thể hơn, một trong số đó là việc làm cho máy tính lừa được Turing Test.
+Turing Test được tạo ra bởi Alan Turing (1912 - 1954), người được xem là cha đẻ của ngành khoa học máy tính hiện đại, nhằm phân biệt xem người đối diện có phải là người hay không.
+AI thể hiện một mục tiêu của con người.
+Machine Learning là một phương tiện được kỳ vọng sẽ giúp con người đạt được mục tiêu đó.
+Và thực tế thì machine learning đã mang nhân loại đi rất xa trên quãng đường chinh phục AI.
+Nhưng vẫn còn một quãng đường xa hơn rất nhiều phải đi.
+Machine Learning và AI có mối quan hệ chặt chẽ với nhau nhưng không hẳn là trùng khớp vì một bên là mục tiêu (AI), một bên là phương tiện (machine learning).
+Chinh phục AI mặc dù vẫn là mục đích tối thượng cửa machine learning, nhưng hiện tại machine learning tập trung vào những mục tiêu ngắn hạn hơn như:
+ 1.Làm cho máy tính có những khả năng nhận thức cơ bản của con người như nghe, nhìn, hiểu được ngôn ngữ, giải toán, lập trình,... và
+ 2.Hỗ trọ con người trong việc xử lý một khối lượng thông tin khổng lồ mà chúng ta phải đối mặt hàng ngày, hay còn gọi là Big Data.
+
+Big Data thực chất không phải là một ngành khoa học chính thống. Đó là một cụm từ dan gian và được giới truyền thông tung hô để ám chỉ thời kì bùng nổ của dữ liệu hiện nay.
+Nó cũng không khác gì với những cụm từ như "Cách mạng công nghiệp", "Kỉ nguyên phần mềm".
+Big Data chỉ thực sự bắt đầu từ khi chúng ta hiểu được giá trị của thông tin ẩn chứa trong dữ liệu, và có đủ tài nguyên cũng như công nghệ để có thể khai thác chúng trên quy mô khổng lồ.
+Và không có gì ngạc nhiên khi machine learning chính là thành phần mấu chốt của công nghệ đó.
+Machine Learning phát triển hơn nhờ sự gia tăng của khối dữ liệu của Big Data, thành công của Big Data phụ thuộc vào khả năng khai thác tri thức từ dữ liệu của Machine Learning.
+
+Machine Learning có mối quan hệ rất mật thiết đối với thống kê. Nó sử dụng mô hình thống kê để "ghi nhớ" lại sự phân bố của dữ liệu.
+Tuy nhiên không đơn thuần là ghi nhớ, machine learning phải có khả năng tổng quát hóa những gì đã được thấy và đưa ra dự đoán cho những trường hợn chưa được nhìn thấy.
